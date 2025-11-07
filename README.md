@@ -1,6 +1,7 @@
 
 # 🏎️ F1 RACE PREDICTOR
 An advanced, interactive Formula 1 pit stop strategy simulator leveraging **Reinforcement Learning** and **Machine Learning** to optimize race strategies through dynamic simulation. This project demonstrates AI-driven decision-making for pit stop timing and tire compound selection in realistic race environments.
+
 [**Launch Simulator**](https://racepredictor-6sfeab.streamlit.app/)
 ---
 
